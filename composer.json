@@ -1,0 +1,18 @@
+{
+    "name": "majd/ex",
+    "description": "first assigment",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Majd\\Ex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "majd sami",
+            "email": "majdsami150@gmail.com"
+        }
+    ],
+    "require": {}
+}
